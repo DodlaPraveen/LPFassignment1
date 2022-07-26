@@ -1,0 +1,14 @@
+C:\Users\PRAVEEN\Desktop\LPFassignment\empuc1\empuc1\obj\Debug\netcoreapp3.1\empuc1.csproj.AssemblyReference.cache
+C:\Users\PRAVEEN\Desktop\LPFassignment\empuc1\empuc1\obj\Debug\netcoreapp3.1\empuc1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PRAVEEN\Desktop\LPFassignment\empuc1\empuc1\obj\Debug\netcoreapp3.1\empuc1.AssemblyInfoInputs.cache
+C:\Users\PRAVEEN\Desktop\LPFassignment\empuc1\empuc1\obj\Debug\netcoreapp3.1\empuc1.AssemblyInfo.cs
+C:\Users\PRAVEEN\Desktop\LPFassignment\empuc1\empuc1\obj\Debug\netcoreapp3.1\empuc1.csproj.CoreCompileInputs.cache
+C:\Users\PRAVEEN\Desktop\LPFassignment\empuc1\empuc1\bin\Debug\netcoreapp3.1\empuc1.exe
+C:\Users\PRAVEEN\Desktop\LPFassignment\empuc1\empuc1\bin\Debug\netcoreapp3.1\empuc1.deps.json
+C:\Users\PRAVEEN\Desktop\LPFassignment\empuc1\empuc1\bin\Debug\netcoreapp3.1\empuc1.runtimeconfig.json
+C:\Users\PRAVEEN\Desktop\LPFassignment\empuc1\empuc1\bin\Debug\netcoreapp3.1\empuc1.runtimeconfig.dev.json
+C:\Users\PRAVEEN\Desktop\LPFassignment\empuc1\empuc1\bin\Debug\netcoreapp3.1\empuc1.dll
+C:\Users\PRAVEEN\Desktop\LPFassignment\empuc1\empuc1\bin\Debug\netcoreapp3.1\empuc1.pdb
+C:\Users\PRAVEEN\Desktop\LPFassignment\empuc1\empuc1\obj\Debug\netcoreapp3.1\empuc1.dll
+C:\Users\PRAVEEN\Desktop\LPFassignment\empuc1\empuc1\obj\Debug\netcoreapp3.1\empuc1.pdb
+C:\Users\PRAVEEN\Desktop\LPFassignment\empuc1\empuc1\obj\Debug\netcoreapp3.1\empuc1.genruntimeconfig.cache
