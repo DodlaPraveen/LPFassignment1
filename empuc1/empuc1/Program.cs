@@ -6,17 +6,24 @@ namespace empuc1
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Enter your name");
-            string name = Console.ReadLine();
-
-            if(name == "Praveen")
+            int fullTime = 1;
+            int wagehour = 20;
+            int emphr;
+            Random random = new Random();
+            int value = random.Next(0,2);
+            if(value == fullTime)
             {
-                Console.WriteLine("Name is ok");
+                emphr = 8;
+
             }
             else
             {
-                Console.WriteLine("Name is not ok");
+                emphr = 4;
             }
+            
+            
+            Console.WriteLine("Emphe="+emphr+ "empwasehour="+(wagehour*emphr));
+            
         }
     }
 }
